@@ -1,0 +1,3 @@
+this is a text file
+
+the content of thisis going to reverse

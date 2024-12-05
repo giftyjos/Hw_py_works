@@ -1,0 +1,3 @@
+Python is an interpreted.
+object-orientedhigh-level programming language.
+dynamic semantics developed by Guido van Rossum.
